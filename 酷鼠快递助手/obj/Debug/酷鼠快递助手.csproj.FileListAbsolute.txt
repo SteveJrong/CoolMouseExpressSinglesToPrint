@@ -1,0 +1,14 @@
+E:\学习\c#练习\酷鼠快递助手\酷鼠快递助手\bin\Debug\酷鼠快递助手.exe
+E:\学习\c#练习\酷鼠快递助手\酷鼠快递助手\bin\Debug\酷鼠快递助手.pdb
+E:\学习\c#练习\酷鼠快递助手\酷鼠快递助手\obj\Debug\酷鼠快递助手.csprojResolveAssemblyReference.cache
+E:\学习\c#练习\酷鼠快递助手\酷鼠快递助手\obj\Debug\酷鼠快递助手.main.resources
+E:\学习\c#练习\酷鼠快递助手\酷鼠快递助手\obj\Debug\酷鼠快递助手.Properties.Resources.resources
+E:\学习\c#练习\酷鼠快递助手\酷鼠快递助手\obj\Debug\酷鼠快递助手.csproj.GenerateResource.Cache
+E:\学习\c#练习\酷鼠快递助手\酷鼠快递助手\obj\Debug\酷鼠快递助手.exe
+E:\学习\c#练习\酷鼠快递助手\酷鼠快递助手\obj\Debug\酷鼠快递助手.pdb
+E:\学习\c#练习\酷鼠快递助手\酷鼠快递助手\obj\Debug\酷鼠快递助手.help.resources
+E:\学习\c#练习\酷鼠快递助手\酷鼠快递助手\obj\Debug\酷鼠快递助手.setup.resources
+E:\学习\c#练习\酷鼠快递助手\酷鼠快递助手\obj\Debug\酷鼠快递助手.addform.resources
+E:\学习\c#练习\酷鼠快递助手\酷鼠快递助手\obj\Debug\酷鼠快递助手.toform.resources
+C:\Users\Steve Jrong\Desktop\酷鼠快递助手\酷鼠快递助手\酷鼠快递助手\obj\Debug\酷鼠快递助手.exe
+C:\Users\Steve Jrong\Desktop\酷鼠快递助手\酷鼠快递助手\酷鼠快递助手\obj\Debug\酷鼠快递助手.pdb
